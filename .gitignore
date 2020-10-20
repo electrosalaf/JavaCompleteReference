@@ -1,0 +1,12 @@
+# Default ignored files
+*.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.externalNativeBuild
+/out
+*.class
+/.idea/libraries
+/.idea/codeStyles
